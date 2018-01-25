@@ -1,0 +1,633 @@
+{'content': '\n'
+            'C语言是一门通用计算机编程语言，应用广泛。C语言的设计目标是提供一种能以简易的方式编译、处理低级存储器、产生少量的机器码以及不需要任何运行环境支持便能运行的编程语言。尽管C语言提供了许多低级处理的功能，但仍然保持着良好跨平台的特性，以一个标准规格写出的C语言程序可在许多电脑平台上进行编译，甚至包含一些嵌入式处理器（单片机或称MCU）以及超级电脑等作业平台。二十世纪八十年代，为了避免各开发厂商用的C语言语法产生差异，由美国国家标准局为C语言订定了一套完整的国际标准语法，称为ANSI '
+            'C，作为C语言最初的标准。[1]\xa0\n'
+            '\n',
+ 'title': "('c语言', '目录')",
+ 'url': 'https://baike.baidu.com/item/C%E8%AF%AD%E8%A8%80'}{'content': '\n'
+            'if语句是指编程语言（包括c语言，C#，VB，java,汇编语言等）中用来判定所给定的条件是否满足，根据判定的结果（真或假）决定执行给出的两种操作之一。\n',
+ 'title': "('if语句', '目录')",
+ 'url': 'https://baike.baidu.com/item/if%E8%AF%AD%E5%8F%A5'}{'content': '\n'
+            '科学，分科而学的意思，后指将各种知识通过细化分类（如数学、物理、化学等）研究，形成逐渐完整的知识体系。它是关于发现发明创造实践的学问，它是人类探索研究感悟宇宙万物变化规律的知识体系的总称。科学是一个建立在可检验的解释和对客观事物的形式、组织等进行预测的有序的知识的系统。在一个旧的，密切相关的意思，“科学”还指可合理解释，并可靠地应用型知识的主体本身。科学的专业从业者习惯上被称为科学家。[1-4]\xa0\n'
+            '自古典时代，科学作为一种知识已紧密联系在一起的理念。科学的方法奠定了基础，强调实验数据及其结果的重现性。在西方世界在近代早期的话：“科学”和“自然哲学“有时可以互换使用。在西方世界直到17世纪，自然哲学（自然科学）被认为是哲学的一个独立的科学分支，与唯物同源。[5-6]\xa0\n'
+            '在现代用法中，“科学”经常指的是追求知识，不但对知识本身的一种方式，它也经常受限于研究这些分支寻求解释物质世界的现象。在17世纪和18世纪的科学家越来越多地寻求在自然法则，如牛顿运动定律方面制定知识。而在19世纪的过程中，“科学”一词变得越来越与科学方法本身相关联，以研究自然世界有纪律的方法，包括物理、化学、地质学和生物学。它是在19世纪也使科学家一词是由博物学家区分自然知识和知识创造。[7]\xa0\n'
+            '然而，“科学”还继续使用在广义上表示可靠，可教的知识的一个话题，反映在现代术语如图书馆学和计算机科学。这也反映在学术研究的某些领域，如“社会科学”或“政治学”的名称。\n',
+ 'title': "('科学', '（认识世界的实践方法）')",
+ 'url': 'https://baike.baidu.com/item/%E7%A7%91%E5%AD%A6/10406'}{'content': '\n'
+            '类型，是编程语言中的一个很重要的概念，它在强类型语言中尤其重要，比如C语言，C++语言，Java语言中...它定义了一个变量的内存布局和这个这个变量可以实用的运算符。C和C++开发语言中，基本类型有:int,char,double,class等\n',
+ 'title': "('类型', '（程序开发语言）')",
+ 'url': 'https://baike.baidu.com/item/%E7%B1%BB%E5%9E%8B/6737759'}{'content': '\n'
+            '字节码（Byte-code）是一种包含执行程序，由一序列 op '
+            '代码/数据对组成的二进制文件，是一种中间码。字节是电脑里的数据量单位。\n',
+ 'title': "('字节码', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%AD%97%E8%8A%82%E7%A0%81'}{'content': '\n'
+            '源文件一般指用汇编语言或高级语言写出来的代码保存为文件后的结果，源文件是相对目标文件和可执行文件而言的。源文件就是用汇编语言或高级语言写出来的代码保存为文件后的结果。\n',
+ 'title': "('源文件', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E6%BA%90%E6%96%87%E4%BB%B6'}{'content': '\n《爱好者》是一款Android平台的应用。\n',
+ 'title': "('爱好者', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%88%B1%E5%A5%BD%E8%80%85'}{'content': '\n'
+            '简单讲，编译器就是将“一种语言（通常为高级语言）”翻译为“另一种语言（通常为低级语言）”的程序。一个现代编译器的主要工作流程：源代码 '
+            '(source code) → 预处理器 (preprocessor) → 编译器 (compiler) →  目标代码 '
+            '(object code) → 链接器 (Linker) → 可执行程序 '
+            '(executables)高级计算机语言便于人编写，阅读交流，维护。机器语言是计算机能直接解读、运行的。编译器将汇编或高级计算机语言源程序（Source '
+            'program）作为输入，翻译成目标语言（Target language）机器代码的等价程序。源代码一般为高级语言 '
+            '(High-level language)， '
+            '如Pascal、C、C++、Java、汉语编程等或汇编语言，而目标则是机器语言的目标代码（Object '
+            'code），有时也称作机器代码（Machine '
+            'code）。对于C#、VB等高级语言而言，此时编译器完成的功能是把源码（SourceCode）编译成通用中间语言（MSIL/CIL）的字节码（ByteCode）。最后运行的时候通过通用语言运行库的转换，编程最终可以被CPU直接计算的机器码（NativeCode）。\n',
+ 'title': "('编译器', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%BC%96%E8%AF%91%E5%99%A8'}{'content': '\n'
+            '虚拟机（Virtual '
+            'Machine）指通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统。虚拟系统通过生成现有操作系统的全新虚拟镜像，它具有真实windows系统完全一样的功能，进入虚拟系统后，所有操作都是在这个全新的独立的虚拟系统里面进行，可以独立安装运行软件，保存数据，拥有自己的独立桌面，不会对真正的系统产生任何影响 '
+            '，而且具有能够在现有系统与虚拟镜像之间灵活切换的一类操作系统。虚拟系统和传统的虚拟机（Parallels Desktop '
+            '，Vmware，VirtualBox，Virtual '
+            'pc）不同在于：虚拟系统不会降低电脑的性能，启动虚拟系统不需要像启动windows系统那样耗费时间，运行程序更加方便快捷；虚拟系统只能模拟和现有操作系统相同的环境，而虚拟机则可以模拟出其他种类的操作系统；而且虚拟机需要模拟底层的硬件指令，所以在应用程序运行速度上比虚拟系统慢得多。流行的虚拟机软件有VMware(VMWare '
+            'ACE）、Virtual Box和Virtual PC，它们都能在Windows系统上虚拟出多个计算机。\n',
+ 'title': "('虚拟机', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E8%99%9A%E6%8B%9F%E6%9C%BA'}{'content': '\n'
+            '跨平台概念是软件开发中一个重要的概念，即不依赖于操作系统，也不依赖硬件环境。一个操作系统下开发的应用，放到另一个操作系统下依然可以运行。相对而言如果某种计算机语言不用修改代码即可做到高度跨平台，那么此语言就越抽象，硬件控制力就越低，只适合开发高度抽象的模型系统。诸如java,delphi和易语言，都已做到了跨平台。它们将可以在多种系统下开发，运行和维护。[1]\xa0\n'
+            '\n',
+ 'title': "('跨平台', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E8%B7%A8%E5%B9%B3%E5%8F%B0'}{'content': '\n'
+            '迭代器（iterator）有时又称游标（cursor）是程序设计的软件设计模式，可在容器（container，例如链表或阵列）上遍访的接口，设计人员无需关心容器的内容。\n',
+ 'title': "('迭代器', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E8%BF%AD%E4%BB%A3%E5%99%A8'}{'content': '\n'
+            '中文名： 马特利 英文名： ArturMatlik 国籍： 德国 出生年月： 1977年9月2日 职业： 运动员 足球 身高： '
+            '180厘米 效力球队:慕士达 场上位置:中场\n',
+ 'title': "('马特利', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E9%A9%AC%E7%89%B9%E5%88%A9'}{'content': '\n'
+            '动态语言，是指程序在运行时可以改变其结构：新的函数可以被引进，已有的函数可以被删除等在结构上的变化，类型的检查是在运行时做的，优点为方便阅读，清晰明了，缺点为不方便调试。\n',
+ 'title': "('动态语言', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80'}{'content': '\n'
+            '《秋之回忆》是日本KID公司推出的一款恋爱冒险类游戏系列，于1999年9月30日发行了第一部作品《秋之回忆1》，至2010年共发售7部正传作品。\n',
+ 'title': "('秋之回忆', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%A7%8B%E4%B9%8B%E5%9B%9E%E5%BF%86/647392?fromtitle=memories%20off&fromid=4779011'}{'content': '\n'
+            '单元测试（unit '
+            'testing），是指对软件中的最小可测试单元进行检查和验证。对于单元测试中单元的含义，一般来说，要根据实际情况去判定其具体含义，如C语言中单元指一个函数，Java里单元指一个类，图形化的软件中可以指一个窗口或一个菜单等。总的来说，单元就是人为规定的最小的被测功能模块。单元测试是在软件开发过程中要进行的最低级别的测试活动，软件的独立单元将在与程序的其他部分相隔离的情况下进行测试。在一种传统的结构化编程语言中，比如C，要进行测试的单元一般是函数或子过程。在像C++这样的面向对象的语言中， '
+            '要进行测试[1]\xa0\n'
+            '的基本单元是类。对Ada语言来说，开发人员可以选择是在独立的过程和函数，还是在Ada包的级别上进行单元测试。单元测试的原则同样被扩展到第四代语言（4GL)的开发中，在这里基本单元被典型地划分为一个菜单或显示界面。经常与单元测试联系起来的另外一些开发活动包括代码走读（Code '
+            'review)，静态分析（Static analysis)和动态分析（Dynamic '
+            'analysis)。静态分析就是对软件的源代码进行研读，查找错误或收集一些度量数据，并不需要对代码进行编译和执行。动态分析就是通过观察软件运行时的动作，来提供执行跟踪，时间分析，以及测试覆盖度方面的信息。\n',
+ 'title': "('单元测试', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95'}{'content': '\n'
+            'C11标准是 ISO/IEC 9899:2011 - Information technology -- Programming '
+            'languages -- C 的简称[1]\xa0\n'
+            '，曾用名为C1X。C11标准是C语言标准的第三版，前一个标准版本是C99标准。2011年12月8日，国际标准化组织（ISO）和国际电工委员会（IEC） '
+            '旗下的C语言标准委员会（ISO/IEC JTC1/SC22/WG14）正式发布了C11标准[2]\xa0\n'
+            '。C11标准的最终定稿的草案是免费开放的，为N1570[3]\xa0\n'
+            '，但是正式标准文件需要198瑞士法郎[2]\xa0\n'
+            '。当前，支持此标准的主流C语言编译器有：GCC、Clang、Intel C++ Compiler等。\n',
+ 'title': "('C11', '目录')",
+ 'url': 'https://baike.baidu.com/item/C11'}{'content': '\n'
+            'C99标准是 ISO/IEC 9899:1999 - Programming languages -- C 的简称[1]\xa0\n'
+            '，是C语言的官方标准第二版。1999年12月1日，国际标准化组织（ISO）和国际电工委员会（IEC）旗下的C语言标准委员会（ISO/IEC '
+            'JTC1/SC22/WG14）正式发布了这个标准文件[2]\xa0\n'
+            '。\n',
+ 'title': "('c99', '目录')",
+ 'url': 'https://baike.baidu.com/item/C99'}{'content': '\n'
+            '命令提示符是在操作系统中，提示进行命令输入的一种工作提示符。在不同的操作系统环境下，命令提示符各不相同。在windows环境下，命令行程序为cmd.exe，是一个32位的命令行程序，微软Windows系统基于Windows上的命令解释程序，类似于微软的DOS操作系统。输入一些命令，cmd.exe可以执行，比如输入shutdown '
+            '-s就会在30秒后关机。总之，它非常有用。打开方法：开始-所有程序-附件 或 开始-寻找-输入：cmd/cmd.exe '
+            '回车。它也可以执行BAT文件。\n',
+ 'title': "('命令提示符', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6/998728?fromtitle=%E5%91%BD%E4%BB%A4%E8%A1%8C&fromid=196110'}{'content': '\n'
+            '影片《源代码》是由邓肯·琼斯执导，杰克·吉伦哈尔、维拉·法米加、米歇尔·莫娜汉等人联袂出演。影片于2011年4月1日在美国上映。影片讲述了一位在阿富汗执行任务的美国空军飞行员柯尔特·史蒂文斯，醒来时发现自己正处在一辆前往芝加哥的火车上，并就此经历的一系列惊心动魄的事件。[1]\xa0\n'
+            '\n',
+ 'title': "('源代码', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E6%BA%90%E4%BB%A3%E7%A0%81/3587471'}{'content': '\n'
+            'C#是微软公司发布的一种面向对象的、运行于.NET '
+            'Framework之上的高级程序设计语言。并定于在微软职业开发者论坛(PDC)上登台亮相。C#是微软公司研究员Anders '
+            'Hejlsberg的最新成果。C#看起来与Java有着惊人的相似；它包括了诸如单一继承、接口、与Java几乎同样的语法和编译成中间代码再运行的过程。但是C#与Java有着明显的不同，它借鉴了Delphi的一个特点，与COM（组件对象模型）是直接集成的，而且它是微软公司 '
+            '.NET '
+            'windows网络框架的主角。C#是一种安全的、稳定的、简单的、优雅的，由C和C++衍生出来的面向对象的编程语言。它在继承C和C++强大功能的同时去掉了一些它们的复杂特性（例如没有宏以及不允许多重继承）。C#综合了VB简单的可视化操作和C++的高运行效率，以其强大的操作能力、优雅的语法风格、创新的语言特性和便捷的面向组件编程的支持成为.NET开发的首选语言。[1]\xa0\n'
+            'C#是面向对象的编程语言。它使得程序员可以快速地编写各种基于MICROSOFT .NET平台的应用程序，MICROSOFT '
+            '.NET提供了一系列的工具和服务来最大程度地开发利用计算与通讯领域。C#使得C++程序员可以高效的开发程序，且因可调用由 '
+            'C/C++ '
+            '编写的本机原生函数，因此绝不损失C/C++原有的强大的功能。因为这种继承关系，C#与C/C++具有极大的相似性，熟悉类似语言的开发者可以很快的转向C#。[2]\xa0\n'
+            '\n',
+ 'title': "('c#', '目录')",
+ 'url': 'https://baike.baidu.com/item/C%23'}{'content': '\nBasic Combined Programming Language(BCPL),是一种早期的高级语言。\n',
+ 'title': "('BCPL', '目录')",
+ 'url': 'https://baike.baidu.com/item/BCPL'}{'content': '\n'
+            'UNIX操作系统（尤尼斯），是一个强大的多用户、多任务操作系统，支持多种处理器架构，按照操作系统的分类，属于分时操作系统，最早由KenThompson、Dennis '
+            'Ritchie和Douglas '
+            'McIlroy于1969年在AT&T的贝尔实验室开发。目前它的商标权由国际开放标准组织所拥有，只有符合单一UNIX规范的UNIX系统才能使用UNIX这个名称，否则只能称为类UNIX（UNIX-like）。\n',
+ 'title': "('unix', '目录')",
+ 'url': 'https://baike.baidu.com/item/UNIX'}{'content': '\n'
+            'Else，adj.别的,其他的 adv.另外,否则。用法：作定语时不能修饰名词、而用来修饰不定代词和疑问代词而且均放在后面。\n',
+ 'title': "('Else', '目录')",
+ 'url': 'https://baike.baidu.com/item/else'}{'content': '\n'
+            'gets从标准输入设备读字符串函数，其可以无限读取，不会判断上限，以回车结束读取，所以程序员应该确保buffer的空间足够大，以便在执行读操作时不发生溢出。\n',
+ 'title': "('gets', '目录')",
+ 'url': 'https://baike.baidu.com/item/gets'}{'content': '\n'
+            '大约在公元前1000年，在比布鲁斯（古地中海港市，位于现黎巴嫩贝鲁特以北的朱拜勒。公元前第二个千年成为繁华的腓尼基城）和腓尼基的其他一些地方以及迦南的中心，这个符号是特定的线性形式。 '
+            'c是英文字母顺数第三个。例如：cloud的第一个字母就是c。\n',
+ 'title': "('c', '（字母符号）')",
+ 'url': 'https://baike.baidu.com/item/C/22337'}{'content': '\n'
+            'UTF-8（8-bit Unicode Transformation '
+            'Format）是一种针对Unicode的可变长度字符编码，又称万国码。由Ken '
+            'Thompson于1992年创建。现在已经标准化为RFC '
+            '3629。UTF-8用1到6个字节编码Unicode字符。用在网页上可以统一页面显示中文简体繁体及其它语言（如英文，日文，韩文）。\n',
+ 'title': "('UTF-8', '目录')",
+ 'url': 'https://baike.baidu.com/item/UTF-8'}{'content': '\n'
+            'C++关键字，在函数声明或定义中函数返回类型前加上关键字inline，即可以把函数指定为内联函数。关键字inline必须与函数定义放在一起才能使函数成为内联，仅仅将inline放在函数声明前面不起任何作用。inline是一种“用于实现的关键字”，而不是一种“用于声明的关键字”。一般的，用户可以阅读函数的声明，但是看不到函数的定义。\n',
+ 'title': "('inline', '目录')",
+ 'url': 'https://baike.baidu.com/item/inline'}{'content': '\n'
+            'dos，是磁盘操作系统的缩写，是个人计算机上的一类操作系统。从1981年直到1995年的15年间，磁盘操作系统在IBM PC '
+            '兼容机市场中占有举足轻重的地位。而且，若是把部分以DOS为基础的Microsoft Windows版本，如Windows '
+            '95、Windows 98和Windows '
+            'Me等都算进去的话，那么其商业寿命至少可以算到2000年。微软的所有后续版本中，磁盘操作系统仍然被保留着。从1981年MS-DOS1.0直到1995年MS-DOS7.1的15年间，DOS作为微软公司在个人计算机上使用的一个操作系统载体，推出了多个版本。DOS在IBM '
+            'PC '
+            '兼容机市场中占有举足轻重的地位。可以直接操纵管理硬盘的文件，以DOS的形式运行。是一个更久远的操作系统CP/M的翻版。DOS家族包括MS-DOS、PC-DOS、DR-DOS、Free-DOS、PTS-DOS、ROM-DOS、JM-OS等，其中以MS-DOS最为著名，最自由开放的则是Free-DOS。虽然这些系统常被简称为"DOS"，但没有任何一个系统单纯以"DOS"命名（只有一个毫无关连的1960年代IBM大型主机操作系统以此命名）。此外，有几个和DOS无关、在非x86的微计算机系统上运行的磁盘操作系统在名称中也有"DOS"字眼，而且在专门讨论该机器的场合中也会简称为"DOS"（例如：AmigaDOS、AMSDOS、ANDOS、Apple '
+            'DOS、Atari DOS、Commodore '
+            'DOS、CSI-DOS、ProDOS、TRS-DOS等），但这些系统和DOS可执行文件以及MS-DOS '
+            'API并不兼容。微软图形界面操作系统 Windows NT '
+            '问世以来，DOS就是一个后台程序的形式出现的。可以通过点击运行-CMD进入运行。[1]\xa0\n'
+            '\n',
+ 'title': "('DOS', '（DOS操作系统）')",
+ 'url': 'https://baike.baidu.com/item/DOS/32025'}{'content': '\n'
+            '分布式文件系统（Distributed File '
+            'System）是指文件系统管理的物理存储资源不一定直接连接在本地节点上，而是通过计算机网络与节点相连。分布式文件系统的设计基于客户机/服务器模式。一个典型的网络可能包括多个供多用户访问的服务器。另外，对等特性允许一些系统扮演客户机和服务器的双重角色。例如，用户可以“发表”一个允许其他客户机访问的目录，一旦被访问，这个目录对客户机来说就像使用本地驱动器一样，下面是三个基本的分布式文件系统。\n',
+ 'title': "('分布式文件系统', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%88%86%E5%B8%83%E5%BC%8F%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F'}{'content': '\n'
+            'Bit是北京理工大学的缩写，也可理解为树状数组，同时还可以指数据的计量单位“比特”、SQL Server '
+            '数据类型、1,2-苯并异噻唑-3-酮，以及其他含义的英文缩写。\n',
+ 'title': "('Bit', '（北京理工大学的缩写）')",
+ 'url': 'https://baike.baidu.com/item/bit/2806281'}{'content': '\nX86是由Intel推出的一种复杂指令集，用于控制芯片的运行的程序，现在X86已经广泛运用到了家用PC领域。\n',
+ 'title': "('Intel x86', '目录')",
+ 'url': 'https://baike.baidu.com/item/Intel%20x86/1012845?fromtitle=x86&fromid=6150538'}{'content': '\n辅助工具管理器实际就是指一种比较快捷的命令提示方式，他可以对各个一些不常见的命令进行一些提示，和帮助。\n',
+ 'title': '辅助工具管理器',
+ 'url': 'https://baike.baidu.com/item/%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7%E7%AE%A1%E7%90%86%E5%99%A8'}{'content': '\n'
+            '磁盘碎片整理程序（Disk '
+            'defragmenter）是一种用于分析本地卷以及查找和修复碎片文件和文件夹的系统实用程序。磁盘碎片整理程序的命令是 defrag '
+            '命令，可以通过命令行对磁盘执行碎片整理。\n',
+ 'title': "('磁盘碎片整理程序', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%A3%81%E7%9B%98%E7%A2%8E%E7%89%87%E6%95%B4%E7%90%86%E7%A8%8B%E5%BA%8F'}{'content': '\n'
+            '简单网络管理协议（SNMP） 是专门设计用于在 IP '
+            '网络管理网络节点（服务器、工作站、路由器、交换机及HUBS等）的一种标准协议，它是一种应用层协议。\n',
+ 'title': "('简单网络管理协议', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%8D%8F%E8%AE%AE'}{'content': '\n'
+            '"CASE"─美国刀具质量的代名词 '
+            '。累积120年的经验"Case"的名字在刀具业当中是一令人尊重的质量精神象征，1889年开始一个名为"W.R.Case & Son '
+            'Cutlery Company"在纽约州北部开启了美国刀具业的传奇历史。\n',
+ 'title': "('CASE', '（口袋折刀品牌）')",
+ 'url': 'https://baike.baidu.com/item/case/7146410'}{'content': '\n'
+            '“EXIT”是英文“出口”的意思。另外有同名的音乐制作小组、电影、微电影以及童装品牌。EXIT（）是C语言中的一个终止函数。\n',
+ 'title': "('Exit', '（词意）')",
+ 'url': 'https://baike.baidu.com/item/exit/10720019'}{'content': '\n'
+            'CLI（command-line '
+            'interface，命令行界面）是指可在用户提示符下键入可执行指令的界面，它通常不支持鼠标，用户通过键盘输入指令，计算机接收到指令后，予以执行。CLI在汇编指令中也有关闭中断的意思。[1]\xa0\n'
+            '\n',
+ 'title': "('CLI', '目录')",
+ 'url': 'https://baike.baidu.com/item/CLI'}{'content': '\n'
+            'iF 设计奖，简称“iF”，创立于1953年，[1]\xa0\n'
+            '该奖是由德国历史最悠久的工业设计机构--汉诺威工业设计论坛(iF Industrie Forum '
+            'Design)每年定期举办的。德国IF国际设计论坛每年评选iF设计奖，它以“独立、严谨、可靠”的评奖理念闻名于世，旨在提升大众对于设计的认知，其最具分量的金奖素有“产品设计界的奥斯卡奖”之称。[2]\xa0\n'
+            '奔驰、宝马、IBM、LG、三星、索尼、华硕等国际巨头齐聚iF，并展示最新的设计产品。汉诺威工业设计论坛（iF Industrie '
+            'Forum Design）在德国慕尼黑公布了2015年第62届iF国际设计奖的获奖名单，共有75个产品获得iF金奖，其中BOE '
+            'Alta获得了iF产品设计金奖，这是iF 国际设计奖的最高级别奖项。[3]\xa0\n'
+            'iF公布的获奖结果显示，在视听类获得金奖的8件产品中，BOE Alta是唯一一件来自中国的产品。[3]\xa0\n'
+            '\n',
+ 'title': "('IF设计奖', '目录')",
+ 'url': 'https://baike.baidu.com/item/IF%E8%AE%BE%E8%AE%A1%E5%A5%96/8470812?fromtitle=IF&fromid=4529605'}{'content': '\n'
+            'CLR常用简写词语，CLR是公共语言运行库(Common Language '
+            'Runtime)和Java虚拟机一样也是一个运行时环境，它负责资源管理（内存分配和垃圾收集等），并保证应用和底层操作系统之间必要的分离。CLR存在两种不同的翻译名称：公共语言运行库和公共语言运行时。\n',
+ 'title': "('CLR', '目录')",
+ 'url': 'https://baike.baidu.com/item/CLR'}{'content': '\n'
+            '中国东方电气集团公司（简称东方电气）创建于1984年，是中国最大的发电设备制造和电站工程承包特大型企业之一，是党中央确定的涉及国家安全和国民经济命脉的53户国有重点骨干企业之一，是国务院国资委监管企业。集团公司已进入全球225家最大工程承包商之列，2004年位列全球第74名。到2005年底，资产总额达400亿元，员工2.8万人。\n',
+ 'title': "('DEC', '目录')",
+ 'url': 'https://baike.baidu.com/item/DEC'}{'content': '\n'
+            'EOF是一个计算机术语，为End Of '
+            'File的缩写，在操作系统中表示资料源无更多的资料可读取。资料源通常称为档案或串流。可以理解为换行符。\n',
+ 'title': "('EOF', '目录')",
+ 'url': 'https://baike.baidu.com/item/EOF'}{'content': '\n'
+            'PDC是指PDC系统，即Parking Distance Control停车距离控制系统， '
+            '此套系统就是俗称的倒车雷达，主要是协助驾驶者方便停车，尤其在都会区 PDC是有其需要性。 '
+            'PDC系统通常会于车的后保险或前后保险设有雷达侦测器， '
+            '用以侦测前后方的障碍物，或停车时与它车的距离，除了方便停车外，更可以保护您的车身。\n',
+ 'title': "('PDC', '目录')",
+ 'url': 'https://baike.baidu.com/item/PDC'}{'content': '\n波佩克与戈德堡虚拟化需求是一组充分条件，用于验证某一计算机体系结构可否被有效虚拟化。\n',
+ 'title': "('波佩克与戈德堡虚拟化需求', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E6%B3%A2%E4%BD%A9%E5%85%8B%E4%B8%8E%E6%88%88%E5%BE%B7%E5%A0%A1%E8%99%9A%E6%8B%9F%E5%8C%96%E9%9C%80%E6%B1%82'}{'content': '\n'
+            'UTF-8是UNICODE的一种变长字符编码，由Ken Thompson于1992年创建。现在已经标准化为RFC '
+            '3629。UTF-8用1到6个字节编码UNICODE字符。\n',
+ 'title': "('UTF', '目录')",
+ 'url': 'https://baike.baidu.com/item/UTF'}{'content': '\nCDDL，是MPL（Mozilla Public License）的扩展协议。\n',
+ 'title': 'CDDL',
+ 'url': 'https://baike.baidu.com/item/CDDL'}{'content': '\n'
+            'Microsoft Intermediate Language （MSIL）微软中间语言。MSIL 反汇编程序是 MSIL '
+            '汇编程序（Ilasm.exe） 的伙伴工具。 Ildasm.exe 采用包含 Microsoft中间语言 （MSIL） '
+            '代码的可迁移可执行 （PE） 文件，并创建相应的文本文件作为 Ilasm.exe 的输入。\n',
+ 'title': "('MSIL', '目录')",
+ 'url': 'https://baike.baidu.com/item/MSIL'}{'content': '\n'
+            'IL可以指Intermediate Language，同MSIL(Microsoft Intermediate '
+            'Language),是将.NET代码转化为机器语言的一个中间语言的缩写，也是白细胞介素interleukin '
+            '的缩写，网游iL:Soul Bringer的缩写。\n',
+ 'title': "('IL', '目录')",
+ 'url': 'https://baike.baidu.com/item/IL'}{'content': '\n'
+            'bash 是一个为GNU计划编写的Unix shell。它的名字是一系列缩写：Bourne-Again SHell — '
+            '这是关于Bourne shell（sh）的一个双关语（Bourne again / born again）。Bourne '
+            'shell是一个早期的重要shell，由史蒂夫·伯恩在1978年前后编写，并同Version 7 '
+            'Unix一起发布。bash则在1987年由布莱恩·福克斯创造。在1990年，Chet Ramey成为了主要的维护者。\n',
+ 'title': "('bash', '目录')",
+ 'url': 'https://baike.baidu.com/item/Bash'}{'content': '\n'
+            '这个组织的目标是评估，开发和认可电信和计算机标准。大家决定把ECMA的总部设在日内瓦是因为这样能够让它与其它与之协同工作的标准制定组织更接近一些，比方说国际标准化组织（ISO）和国际电子技术协会（IEC）。ECMA是“European '
+            'Computer Manufactures '
+            'Association”的缩写，中文称欧洲计算机制造联合会。是1961年成立的旨在建立统一的电脑操作格式标准--包括程序语言和输入输出的组织。\n',
+ 'title': "('ECMA', '目录')",
+ 'url': 'https://baike.baidu.com/item/ECMA'}{'content': '\n'
+            'SGI（Silicon Graphics '
+            '）中文商标：硅图。美国硅图公司成立于1982年，是一个生产高性能计算机系统的跨国公司，总部设在美国加州旧金山硅谷。\n',
+ 'title': "('SGI', '（美国硅图公司）')",
+ 'url': 'https://baike.baidu.com/item/SGI/9841082'}{'content': '\n'
+            '可执行程序（executable program，EXE '
+            'File）是指一种可在操作系统存储空间中浮动定位的可执行程序。在MS-DOS和MS-WINDOWS下，此类文件扩展名为·exe。WINDOWS操作系统中的二进制可执行文件，分两种：一种后辍名为·com，另一种是·exe '
+            '。DOS规定，有重名的exe和com，运行时优先执行com文件。如果只有A.exe，就可以直接输入A，而不用输入全名。但如果有A.com和A.exe，输入A则优先执行A.com，要运行A.exe只能输入A.exe而不能输入A。一般用于DOS，在WINDOWS系统中的执行文件一般都是.exe文件。在 '
+            'MS-DOS 中，用以标识可执行文件的文件扩展名。用户在提示行输入不带 .exe 扩展名的文件名后按 Enter '
+            '键或者点双击就能运行可执行程序。\n',
+ 'title': "('可执行程序', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%8F%AF%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F/5723075?fromtitle=exe&fromid=768104'}{'content': '\n98（九十八）是97与99之间的自然数，是一个合数，一个偶数。两位数中最大的偶数。\n',
+ 'title': "('98', '目录')",
+ 'url': 'https://baike.baidu.com/item/98'}{'content': '\n'
+            '幽门螺杆菌病是一种螺旋形、微厌氧、对生长条件要求十分苛刻的细菌。1983年首次从慢性活动性胃炎患者的胃黏膜活检组织中分离成功，是目前所知能够在人胃中生存的惟一微生物种类。\n',
+ 'title': "('幽门螺杆菌', '科普中国')",
+ 'url': 'https://baike.baidu.com/item/%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C/1226672?fromtitle=HP&fromid=20146768'}{'content': '\nCOOL通“酷”,“酷”，这个词是近些年青少年流行语中最具有代表性的一个重要词语。\n',
+ 'title': "('cool', '（网络语言）')",
+ 'url': 'https://baike.baidu.com/item/COOL/177293'}{'content': '\n'
+            'Visual '
+            'Basic（简称VB）是Microsoft公司开发的一种通用的基于对象的程序设计语言，为结构化的、模块化的、面向对象的、包含协助开发环境的事件驱动为机制的可视化程序设计语言。是一种可用于微软自家产品开发的语言。[1]\xa0\n'
+            '“Visual” 指的是开发图形用户界面 (GUI) '
+            '的方法——不需编写大量代码去描述界面元素的外观和位置，而只要把预先建立的对象add到屏幕上的一点即可。 “Basic”指的是 '
+            'BASIC (Beginners All-Purpose Symbolic  Instruction Code) '
+            '语言，是一种在计算技术发展历史上应用得最为广泛的语言。Visual '
+            'Basic源自于BASIC编程语言。VB拥有图形用户界面（GUI）和快速应用程序开发（RAD）系统，可以轻易的使用DAO、RDO、ADO连接数据库，或者轻松的创建Active '
+            'X控件，用于高效生成类型安全和面向对象的应用程序[2]\xa0\n'
+            '。程序员可以轻松的使用VB提供的组件快速建立一个应用程序。\n',
+ 'title': "('Visual Basic', '目录')",
+ 'url': 'https://baike.baidu.com/item/Visual%20Basic/287852?fromtitle=VB&fromid=6044'}{'content': '\n'
+            'Windows '
+            'XP是Microsoft在2001年10月25日推出的基于X86、X64架构的PC和平板电脑使用的操作系统，包括商用及家用的台式电脑等，大小为575MB~1GB。其名字“XP”的意思是英文中的“体验（Experience）”，是继Windows '
+            '2000及Windows ME之后的下一代Windows操作系统，也是微软首个面向消费者且使用Windows '
+            'NT5.1架构的操作系统。\n',
+ 'title': "('Windows XP', '目录')",
+ 'url': 'https://baike.baidu.com/item/windows%20xp/191927?fromtitle=xp&fromid=13385428'}{'content': '\n'
+            'note笔记软件版本：1.3，大小：19.3MB，中文：否，系统要求： 与 iPhone、iPod touch、iPad兼容。 '
+            '需要 iOS 5.0 '
+            '或更高版本。note歌曲，歌手：SHINee，所属专辑：《Sherlock》，发行时间：2012-03-20，所属公司：S.M.Entertainment。\n',
+ 'title': "('note', '（软件）')",
+ 'url': 'https://baike.baidu.com/item/NOTE/5247558'}{'content': '\n'
+            'feof是C语言标准库函数，其原型在stdio.h中，其功能是检测流上的文件结束符，如果文件结束，则返回非0值，否则返回0，文件结束符只能被clearerr()清除。（这里的检测流上的文件结束符就相当于声卡检测电流信号的一个过程）\n',
+ 'title': "('feof', '（函数名）')",
+ 'url': 'https://baike.baidu.com/item/feof/10942186'}{'content': '\n'
+            'B2C是Business-to-Customer的缩写，而其中文简称为“商对客”。“商对客”是电子商务的一种模式，也就是通常说的直接面向消费者销售产品和服务商业零售模式。\n',
+ 'title': "('B2C', '目录')",
+ 'url': 'https://baike.baidu.com/item/B2C'}{'content': '\n'
+            'Sun Microsystems是IT及互联网技术服务公司（已被甲骨文收购）Sun Microsystems '
+            '创建于1982年。主要产品是工作站及服务器。1986年在美国成功上市。1992年sun推出了市场上第一台多处理器台式机SPARCstation '
+            '10 system，并于1993年进入财富500强。\n',
+ 'title': "('Sun Microsystems', '目录')",
+ 'url': 'https://baike.baidu.com/item/Sun%20Microsystems/6064586?fromtitle=SUN&fromid=69463'}{'content': '\n'
+            'long关键字表示一种整型，该类型根据下表显示的大小和范围存储值。[1]\xa0\n'
+            '类型 范围 大小 .NET Framework 类型long-2,147,483,648 to 2,147,483,647有符号 '
+            '32位整数System. Int32所占4个字节(Byte)\n',
+ 'title': "('long', '（C语言字符）')",
+ 'url': 'https://baike.baidu.com/item/long/412402'}{'content': '\n《True》是百代唱片发行的一张专辑，由方力申演唱，语种是粤语。\n',
+ 'title': "('True', '（方力申2003年的专辑）')",
+ 'url': 'https://baike.baidu.com/item/true/84870'}{'content': '\n'
+            '马克·茨柏克沃斯基（Mark '
+            'Zbikowski，1956年3月21日－）出生于美国密西根州底特律，毕业于耶鲁大学与哈佛大学，是微软公司的元老之一。EXE执行档的档头“MZ”两字（16进制码为4D5A），即来自于马克·茨柏克沃斯基的姓名字首。\n',
+ 'title': "('马克·茨柏克沃斯基', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E9%A9%AC%E5%85%8B%C2%B7%E8%8C%A8%E6%9F%8F%E5%85%8B%E6%B2%83%E6%96%AF%E5%9F%BA'}{'content': '\n'
+            '“97”（九十七）是一个介于96与98之间的自然数，是一个自然数与奇数（质数）。它也代表了锫的原子序数以及我国车用汽油的一个标号。同时，它还有人文方面的意义。\n',
+ 'title': "('97', '目录')",
+ 'url': 'https://baike.baidu.com/item/97'}{'content': '\n'
+            '干扰素[1]\xa0\n'
+            '（IFN）是一种广谱抗病毒剂，并不直接杀伤或抑制病毒，而主要是通过细胞表面受体作用使细胞产生抗病毒蛋白，从而抑制病毒的复制，其类型分为三类，α-（白细胞）型、 '
+            'β-（成纤维细胞）型，γ-（淋巴细胞）型。同时还可增强自然杀伤细胞（NK细胞）、巨噬细胞和T淋巴细胞的活力，从而起到免疫调节作用，并增强抗病毒能力。干扰素是一组具有多种功能的活性蛋白质（主要是糖蛋白），是一种由单核细胞和淋巴细胞产生的细胞因子。它们在同种细胞上具有广谱的抗病毒、影响细胞生长，以及分化、调节免疫功能等多种生理功能。\n',
+ 'title': "('干扰素', '科普中国')",
+ 'url': 'https://baike.baidu.com/item/%E5%B9%B2%E6%89%B0%E7%B4%A0/732384?fromtitle=ifn&fromid=10820147'}{'content': '\n'
+            '沃特F-8“十字军战士”（英语：Vought F-8 '
+            'Crusader）是由美国沃特公司（现凌·特姆科·沃特公司）为海军研制的舰载超音速战斗机。1953年5月开始设计，原编号F8U。1955年3月原型机首次试飞，1957年3月开始交付美国海军使用。由于其低空性能出色，在F-8基础上发展了A-7攻击机。[1]\xa0\n'
+            '\n',
+ 'title': "('F-8战斗机', '目录')",
+ 'url': 'https://baike.baidu.com/item/F-8%E6%88%98%E6%96%97%E6%9C%BA/7195231?fromtitle=F8&fromid=7612552'}{'content': '\n'
+            '控制程序或监控程序，是最有代表性的单用户单任务微机操作系统。享有指挥主机、内存、磁鼓、磁带、磁盘、打印机等硬设备特权。运行在Intel '
+            '8080芯片上的CP/M—80；运行在8088、8086芯片上的叫CP/M—86；而在Motorola（摩托罗拉）68000上运行的CP/M叫CP/M-68K。CP/M—80、CP/M—86、CP/M-68K等组成了庞大的CP/M家族。 '
+            '单用户CP/M—80操作系统，后来发展成多用户MP/M—80，单用户CP/M—86又发展成并发CP/M—86和多用户MP/M—86，它们成为家族的新生力量。\n',
+ 'title': "('CP/M', '目录')",
+ 'url': 'https://baike.baidu.com/item/CP%2FM'}{'content': '\nfalse，英语单词，译为错误的，计算机科学将其作为bool常量，以0来储存，与true相对。\n',
+ 'title': "('false', '目录')",
+ 'url': 'https://baike.baidu.com/item/FALSE'}{'content': '\n'
+            '.cx，Internet网络域名，原为国别顶级域名，目前已延伸为全球性国际顶级域名，并已得到新一代互联网用户的广泛认可和使用。cx域名具有创新(Chuang '
+            'Xin)、诚信(Cheng Xin)、程序(Cheng '
+            'Xu)的含义，是创新、诚信、程序的拼音首字母缩写。此外，.cx域名具有和.com、.cn、.net、.cc一样的性质，在国内可以正常备案使用。因此，.cx域名可以作为国内诚信企业搭建官网的首选域名之一。[1]\xa0\n'
+            '.cx原为圣诞岛(Christmas '
+            'Island)的域名。圣诞岛是澳大利亚在印度洋上的海外领地，圣诞岛海滩是澳大利亚风景最美丽的地方之一。2016年2月11日，圣诞岛互联网管理有限公司(CIIA)正式更名为圣诞岛域名管理有限公司(CXDA)，并把.cx作为了继.com、.net、.cn、.cc之后的第五大域名后缀主打推广，开启了.cx域名国际化商业化的征程。[2]\xa0\n'
+            '首先，cx域名中文名为圣诞岛域名，让人情不自禁就会想到浪漫的圣诞节，具有一定的意义。其次，cx与cc是同一个国家的域名，政策属性与cc保持一致，cc是科科斯群岛(Cocos '
+            '(Keeling) '
+            'Islands)的域名，圣诞岛跟科科斯群岛都是澳大利亚在印度洋的海外领地。再次，字母c和x在键盘上面正好挨着，便于输入和记忆。[3]\xa0\n'
+            '\n',
+ 'title': "('.cx', '目录')",
+ 'url': 'https://baike.baidu.com/item/.cx'}{'content': '\n'
+            'B2B（也有写成 '
+            'BTB，是Business-to-Business的缩写）是指企业与企业之间通过专用网络或Internet，进行数据信息的交换、传递，开展交易活动的商业模式。它将企业内部网和企业的产品及服务，通过 '
+            'B2B 网站或移动客户端与客户紧密结合起来，通过网络的快速反应，为客户提供更好的服务，从而促进企业的业务发展。\n',
+ 'title': "('b2b', '目录')",
+ 'url': 'https://baike.baidu.com/item/B2B'}{'content': '\n'
+            'C2C实际是电子商务的专业用语，是个人与个人之间的电子商务。其中C指的是消费者，因为消费者的英文单词是Customer（Consumer），所以简写为c，又因为英文中的2的发音同to，所以C '
+            'to C简写为C2C。C2C即 Customer（Consumer） to '
+            'Customer（Consumer）。C2C的意思就是消费者个人间的电子商务行为。比如一个消费者有一台电脑，通过网络进行交易，把它出售给另外一个消费者，此种交易类型就称为C2C电子商务。\n',
+ 'title': "('C2C', '（C2C电子商务专业用语）')",
+ 'url': 'https://baike.baidu.com/item/C2C/324663'}{'content': '\n'
+            'C2B（Customer to '
+            'Business，即消费者到企业），是互联网经济时代新的商业模式。这一模式改变了原有生产者（企业和机构）和消费者的关系，是一种消费者贡献价值（Create '
+            'Value）， 企业和机构消费价值（CustomerValue）。C2B模式和我们熟知的供需模式（DSM, Demand '
+            'Supply Model）恰恰相反真正的C2B '
+            '应该先有消费者需求产生而后有企业生产，即先有消费者提出需求，后有生产企业按需求组织生产。通常情况为消费者根据自身需求定制产品和价格，或主动参与产品设计、生产和定价，产品、价格等彰显消费者的个性化需求，生产企业进行定制化生产。C2B的核心是以消费者为中心，消费者当家做主。站在我们平时作为消费者的角度看。C2B产品应该具有以下特征：第一：相同生产厂家的相同型号的产品无论通过什么终端渠道购买价格都一样，也就是全国人民一个价，渠道不掌握定价权（消费者平等)；第二：C2B产品价格组成结构合理（拒绝暴利）；第三：渠道透明（O2O模式拒绝山寨）；第四：供应链透明（品牌共享）。[1]\xa0\n'
+            '\n',
+ 'title': "('c2b', '目录')",
+ 'url': 'https://baike.baidu.com/item/C2B'}{'content': '\n'
+            '.com域名，国际最广泛流行的通用域名格式。国际化公司都会注册·com域名，当然也可以选择以·net/.org为结尾的国际域名。例如表示工商企业的.com，表示创意创新的.xyz，表示网络提供商的.net '
+            '，表示团体组织的.org 等域名后缀都没有使用范围限制。二是国内域名，又称为国内顶级域名（national top-level '
+            'domainnames，简称nTLDs），即按照国家的不同分配不同后缀，这些域名即为该国的国内域名。\n',
+ 'title': "('.com', '目录')",
+ 'url': 'https://baike.baidu.com/item/.com'}{'content': '\n91（九十一）是90与92之间的自然数，是一个奇数、合数。\n',
+ 'title': "('91', '目录')",
+ 'url': 'https://baike.baidu.com/item/91'}{'content': '\n'
+            '香港警察的CID（刑事侦缉队），各区重案组的探员，早期装备短管点38左轮手枪，其特点是便于收藏，而且不容易卡壳，重量轻，其缺点是装弹量少，只有6发，而且换子弹较慢，威力也一般，如果碰上54式手枪或者M9手枪明显处于下风。\n',
+ 'title': "('CID', '（刑事调查局）')",
+ 'url': 'https://baike.baidu.com/item/Cid/7287705'}{'content': '\n'
+            '思科[1]\xa0\n'
+            '公司是全球领先的网络解决方案供应商。Cisco的名字取自San '
+            'Francisco（旧金山），那里有座闻名于世界的金门大桥。可以说，依靠自身的技术和对网络经济模式的深刻理解，思科成为了网络应用的成功实践者之一。与此同时思科正在致力于为无数的企业构筑网络间畅通无阻的“桥梁”，并用自己敏锐的洞察力、丰富的行业经验、先进的技术，帮助企业把网络应用转化为战略性的资产，充分挖掘网络的能量，获得竞争的优势。\n',
+ 'title': "('思科', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E6%80%9D%E7%A7%91/454822?fromtitle=cisco&fromid=414994'}{'content': '\n'
+            '克罗恩病是一种原因不明的肠道炎症性疾病，在胃肠道的任何部位均可发生，但好发于末端回肠和右半结肠。本病和慢性非特异性溃疡性结肠炎两者统称为炎症性肠病（IBD）。本病临床表现为腹痛、腹泻、肠梗阻，伴有发热、营养障碍等肠外表现。病程多迁延，反复发作，不易根治。本病又称局限性肠炎、局限性回肠炎、节段性肠炎和肉芽肿性肠炎。目前尚无根治的方法，许多病人出现并发症，需手术治疗，而术后复发率很高。本病的复发率与病变范围、病症侵袭的强弱、病程的延长、年龄的增长等因素有关，死亡率也随之增高。\n',
+ 'title': "('克罗恩病', '科普中国')",
+ 'url': 'https://baike.baidu.com/item/%E5%85%8B%E7%BD%97%E6%81%A9%E7%97%85/1470175?fromtitle=cd&fromid=10975232'}{'content': '\n牛顿，简称牛，符号为N，是一种衡量力的大小的国际单位，以科学家牛顿的名字命名。\n',
+ 'title': "('牛顿', '（物理学单位）')",
+ 'url': 'https://baike.baidu.com/item/%E7%89%9B%E9%A1%BF/5489111?fromtitle=n&fromid=1781275'}{'content': '\n93（九十三）是介于92和94之间的两位数的自然数，是一个奇数。是一个阿拉伯数字。\n',
+ 'title': "('93', '目录')",
+ 'url': 'https://baike.baidu.com/item/93'}{'content': '\n94（九十四）是93与95之间的自然数，是一个偶数。\n',
+ 'title': "('94', '目录')",
+ 'url': 'https://baike.baidu.com/item/94'}{'content': '\n95（九十五）是94与96之间的自然数就，是一个奇数。\n',
+ 'title': "('95', '目录')",
+ 'url': 'https://baike.baidu.com/item/95'}{'content': '\n'
+            "BASIC（Beginners' All-purpose Symbolic Instruction "
+            'Code，又译培基），意思就是“初学者通用符号指令代码”，是一种设计给初学者使用的程序设计语言。BASIC是一种直译式的编程语言，在完成编写后不须经由编译及连结等手续即可执行，但如果需要单独执行时仍然需要将其建立成执行档。BASIC是由达特茅斯学院院长、匈牙利人约翰·凯梅尼（John '
+            'G. Kemeny）与数学系教师托马斯·卡茨（Thomas E. '
+            'Kurtz）共同研制出来的。1964年BASIC语言正式发布。第一个BASIC程序在1964年5月1日早上4时，由BASIC编译程序进行编译后成功运行[1]\xa0\n'
+            '。1975年，比尔·盖茨把它移植到PC上。\n',
+ 'title': "('BASIC', '（初学者通用符号指令代码）')",
+ 'url': 'https://baike.baidu.com/item/BASIC/207698'}{'content': '\n'
+            '全称为Hewlett Packard '
+            'UniX,是惠普9000系列服务器的操作系统，可以在HP的PA-RISC处理器、Intel的Itanium处理器的电脑上运行。\n',
+ 'title': "('HP-UX', '目录')",
+ 'url': 'https://baike.baidu.com/item/HP-UX'}{'content': '\n'
+            'POSIX表示可移植操作系统接口（Portable Operating System Interface of UNIX，缩写为 '
+            'POSIX '
+            '），POSIX标准定义了操作系统应该为应用程序提供的接口标准，是IEEE为要在各种UNIX操作系统上运行的软件而定义的一系列API标准的总称，其正式称呼为IEEE '
+            '1003，而国际标准名称为ISO/IEC '
+            '9945。POSIX标准意在期望获得源代码级别的软件可移植性。换句话说，为一个POSIX兼容的操作系统编写的程序，应该可以在任何其它的POSIX操作系统（即使是来自另一个厂商）上编译执行。POSIX '
+            '并不局限于 UNIX。许多其它的操作系统，例如 DEC OpenVMS 支持 POSIX 标准，尤其是 IEEE Std. '
+            '1003.1-1990（1995 年修订）或 POSIX.1，POSIX.1 提供了源代码级别的 C '
+            '语言应用编程接口（API）给操作系统的服务程序，例如读写文件。POSIX.1 已经被国际标准化组织（International '
+            'Standards Organization，ISO）所接受，被命名为 ISO/IEC 9945-1:1990 标准。\n',
+ 'title': "('POSIX', '目录')",
+ 'url': 'https://baike.baidu.com/item/POSIX'}{'content': '\n'
+            '.cc 域名是科科斯群岛[Cocos（Keeling）Islands]的顶级域名。.cc '
+            '域名是位于澳大利亚西北部印度洋中的科科斯群岛的官方授权域名，它承包给一家商业公司运营。\n',
+ 'title': "('.cc', '目录')",
+ 'url': 'https://baike.baidu.com/item/.cc'}{'content': '\n'
+            '.CN，Internet网络域名，国家顶级域名，表示中国国家域名。它由我国国际互联网络信息中心（Inter '
+            'NIC）正式注册并运行。.CN域名是全球唯一由中国管理的英文国际顶级域名，是中国企业自己的互联网标识，它体现了一种文化的认同、自身的价值和定位。2016年11月11日，中国互联网络信息中心公布最新统计数据显示，中国国家顶级域名“．CN”的注册保有量成功跨越2000万大关。[1]\xa0\n'
+            '\n',
+ 'title': "('.CN', '目录')",
+ 'url': 'https://baike.baidu.com/item/.cn'}{'content': '\n'
+            '.xin是阿里巴巴旗下Elegant Leader Limited '
+            '领新有限公司作为注册局申请的以“.xin”为后缀的全球通用顶级域名。 '
+            '已获得工业和信息化部的批复，使用此后缀域名的网站已经支持备案。[1]\xa0\n'
+            '.xin在中国拼音对应的汉字是“信”，其含义代表“诚信”、“信任”、“信赖”。[2]\xa0\n'
+            '作为诚信通用顶级域名，欲通过互联网的入口，联合一些诚信评价机构，让每一个愿意展示自身诚信情况的企业或个人都拥有其专属的.xin为后缀的域名，作为互联网上的“诚信标识”，真实展示其诚信指数，促进网络诚信体系建设，推动更加健康、可信的互联网。.xin是从互联网访问入口带着信用的标记，.xin欲建立一个网络诚信体系专属域名后缀，让诚信可见！[3]\xa0\n'
+            '\n',
+ 'title': "('.xin', '目录')",
+ 'url': 'https://baike.baidu.com/item/.xin'}{'content': '\n'
+            'I2C总线是由Philips公司开发的一种简单、双向二线制同步串行总线。它只需要两根线即可在连接于总线上的器件之间传送信息。主器件用于启动总线传送数据，并产生时钟以开放传送的器件，此时任何被寻址的器件均被认为是从器件．在总线上主和从、发和收的关系不是恒定的，而取决于此时数据传送方向。如果主机要发送数据给从器件，则主机首先寻址从器件，然后主动发送数据至从器件，最后由主机终止数据传送；如果主机要接收从器件的数据，首先由主器件寻址从器件．然后主机接收从器件发送的数据，最后由主机终止接收过程。在这种情况下．主机负责产生定时时钟和终止数据传送。[1]\xa0\n'
+            '\n',
+ 'title': "('I2C总线', '目录')",
+ 'url': 'https://baike.baidu.com/item/I2C%E6%80%BB%E7%BA%BF/918424?fromtitle=I2C&fromid=1727975'}{'content': '\n'
+            'ITM是“互动交易模式”的英文Interactive trading '
+            'mode缩写，该模式是中国互联网+战略下创始的流通零售业与信息化ITM云计算大数据平台对接的商业变革；ITM模式主要由 '
+            '“OVS服务”、“云数据”、“供应链”、“支付力、“征信监管”和“品牌价值”等六大模块构成，因此也被称为ITM市场战略体系。ITM模式被传统零售业和电子商务业视为未来发展新趋势。\n',
+ 'title': "('ITM', '目录')",
+ 'url': 'https://baike.baidu.com/item/ITM'}{'content': '\n'
+            '一款与众不同的文字处理软件.该软件具有独有的后缀名.idoc,界面为OfficXP风格,简洁美观.您除了可以享用针对于文字处理的相关功能外,还可以嵌入图片到文件中.独特的软件操控设计使您能够:让您的文档在所有windows程序的最前端显示,调节透明度使您的文档具有透明效果,像QQ一样的把您的文档移动到屏幕顶端即实现伸缩查看.另外,iDoc2还具有最高达到128位像素带alpha通道的图标,无论是您的程序执行文件还是您保存的idoc文档都具有高品质的显示效果.\n',
+ 'title': 'iDoc',
+ 'url': 'https://baike.baidu.com/item/IDOC'}{'content': '\n'
+            '中国教育和科研计算机网（China Education and Research '
+            'Network）简称CERNET，是由国家投资建设，教育部负责管理，清华大学等高等学校承担建设和管理运行的全国性学术计算机互联网络。CERNET(China '
+            'Education and Research '
+            'Network)分四级管理，分别是全国网络中心、地区网络中心和地区主结点、省教育科研网、校园网。全国网络中心设在清华大学，负责全国主干网运行管理。\n',
+ 'title': "('中国教育和科研计算机网', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%92%8C%E7%A7%91%E7%A0%94%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91'}{'content': '\n'
+            '.NET是 Microsoft XML Web services 平台。XML Web services 允许应用程序通过 '
+            'Internet 进行通讯和共享数据，而不管所采用的是哪种操作系统、设备或编程语言。Microsoft .NET 平台提供创建 '
+            'XML Web services 并将这些服务集成在一起之所需。对个人用户的好处是无缝的、吸引人的体验。\n',
+ 'title': "('.NET', '目录')",
+ 'url': 'https://baike.baidu.com/item/.net'}{'content': '\n'
+            '47（四十七）是46与48之间的自然数、整数、实数，奇数。二进制中是101111，八进制中是57，罗马数字XLVII，其还有其他意思。\n',
+ 'title': "('47', '目录')",
+ 'url': 'https://baike.baidu.com/item/47'}{'content': '\n'
+            '1，读音yī，数目，阿拉伯数字符号，最小的正整数，是介于0和2之间的整数，最小的正奇数，是一个有理数，是一位数，也是单数，1是Heegner数。既不是质数（素数）也不是合数。通过单位表现出来的事物的第一个。一个或者几个事物所组成的整体，可以看作是单位“1”。1是一个简单的阿拉伯数字。1的n次方(n∈R)都=1。1有很多用法，比如长度：1米；人数：1人等，且是圆周率的小数点后第1、3、36、40位等。\n',
+ 'title': "('1', '（自然数之一）')",
+ 'url': 'https://baike.baidu.com/item/1/31661'}{'content': '\n'
+            '2，是一个自然数，同时也是1和3之间的正整数。2，有很多数学性质，如果一个数能被2整除，那个数就是偶数，反之则是奇数。2是最小的质数（也叫素数），也是唯一的偶质数，只有1、2两个因数，是一个有理数。也是一个双数。2也是Heegner数。\n',
+ 'title': "('2', '（自然数之一）')",
+ 'url': 'https://baike.baidu.com/item/2/500769'}{'content': '\n'
+            'AIX[1]\xa0\n'
+            '（Advanced Interactive eXecutive）是IBM基于AT&T Unix System '
+            'V开发的一套类UNIX操作系统，运行在IBM专有的Power系列芯片设计的小型机硬件系统之上。它符合Open group的UNIX '
+            '98行业标准（The Open Group UNIX 98 Base '
+            'Brand），通过全面集成对32-位和64-位应用的并行运行支持，为这些应用提供了全面的可扩展性。它可以在所有的IBM ~ '
+            'p系列和IBM RS/6000工作站、服务器和大型并行超级计算机上运行。\n',
+ 'title': "('AIX', '目录')",
+ 'url': 'https://baike.baidu.com/item/AIX'}{'content': '\n'
+            '5（发音：中文 wǔ 英文 Five '
+            '），是4与6之间的自然数，是第3个质数，它还是圆周率的第4、第8、第10位小数。与汉语中的“五”同义，但和“吾”不同义。\n',
+ 'title': "('5', '（自然数之一）')",
+ 'url': 'https://baike.baidu.com/item/5/484815'}{'content': '\n'
+            '.CN，Internet网络域名，国家顶级域名，表示中国国家域名。它由我国国际互联网络信息中心（Inter '
+            'NIC）正式注册并运行。.CN域名是全球唯一由中国管理的英文国际顶级域名，是中国企业自己的互联网标识，它体现了一种文化的认同、自身的价值和定位。2016年11月11日，中国互联网络信息中心公布最新统计数据显示，中国国家顶级域名“．CN”的注册保有量成功跨越2000万大关。[1]\xa0\n'
+            '\n',
+ 'title': "('.CN', '目录')",
+ 'url': 'https://baike.baidu.com/item/.CN'}{'content': '\n'
+            '为了保证和促进我国互联网络的健康发展，加强我国互联网络域名系统的管理，1997年5月30日中国互联网络信息中心制定《中国互联网络域名注册暂行管理办法》。在中国境内注册域名，应当依照本办法办理。自发布之日起施行。本办法由国务院信息办负责解释。\n',
+ 'title': "('中国互联网络域名注册暂行管理办法', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E7%BB%9C%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E6%9A%82%E8%A1%8C%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95'}{'content': '\n省通信管理局在备案管理中应当遵循公开、公平、公正的原则，提供便民、优质、高效的服务。\n',
+ 'title': "('非经营性互联网信息服务备案管理办法', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E9%9D%9E%E7%BB%8F%E8%90%A5%E6%80%A7%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E5%A4%87%E6%A1%88%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95'}{'content': '\n'
+            'IPv6是Internet Protocol Version 6的缩写，其中Internet '
+            'Protocol译为“互联网协议”。IPv6是IETF（互联网工程任务组，Internet Engineering Task '
+            'Force）设计的用于替代现行版本IP协议（IPv4）的下一代IP协议，号称可以为全世界的每一粒沙子编上一个网址[1]\xa0\n'
+            '。由于IPv4最大的问题在于网络地址资源有限，严重制约了互联网的应用和发展。IPv6的使用，不仅能解决网络地址资源数量的问题，而且也解决了多种接入设备连入互联网的障碍[1]\xa0\n'
+            '。\n',
+ 'title': "('IPv6', '目录')",
+ 'url': 'https://baike.baidu.com/item/IPv6'}{'content': '\n'
+            '.org域名是互联网的通用顶级域之一，.org适用于各类组织机构（包括非盈利团体）。全称是Organizations[1]\xa0\n'
+            ',是组织、团体的意思。 '
+            '.org目前拥有900万个域名，VeriSign是世界最大的注册机构，是.com、.net和.org等顶级域名的所有者。.ORG是类别顶级域名，.ORG域名与.COM和.NET同是目前国际最广泛流行的通用域名格式。目前.ORG域名任何人（包括盈利组织，个人，非盈利组织等）都可注册。\n',
+ 'title': "('.org', '目录')",
+ 'url': 'https://baike.baidu.com/item/.org'}{'content': '\n'
+            'co域名是因特网域名治理机构ICANN为哥伦比亚共和国（The Republic of '
+            'Colombia)国家及地区分配的顶级域（ccTLD）作为其国家及地区因特网顶级域名。目前由哥伦比亚一所名为La '
+            'Universidad de Los '
+            'Andes的大学管理。首先，域名.co是哥伦比亚的顶级域名，就像.cn是我们国家的顶级域名一样。\n',
+ 'title': "('co域名', '目录')",
+ 'url': 'https://baike.baidu.com/item/co%E5%9F%9F%E5%90%8D/7556949?fromtitle=.co&fromid=10305632'}{'content': '\n'
+            '.top(dot top)，Internet网络域名，是国际通用顶级域名GTLD(Generictop-level domain '
+            'top)。于2012年通过ICANN审核通过。于2014年8月3日完成入根，正式成为全球顶级通用域名。于2014年11月18日全球开放注册。[1]\xa0\n'
+            '    '
+            '.top域名是三字符英文单词域名，有“顶尖、高端、突破”等含义，简单易记，通俗易懂，识别度高，同时含义积极向上，有助于提升用户的品牌价值，降低营销成本。2015年4月，.top域名获工信部资质审批，可以在国内进行ICP备案，正常使用。[2]\xa0\n'
+            '\n',
+ 'title': "('.top', '目录')",
+ 'url': 'https://baike.baidu.com/item/.top'}{'content': '\n'
+            '.BIZ是国际顶级域名，BIZ '
+            '为英文“business”的缩写，代表着商业领域。.BIZ与com分属于不同的机构来管理，.BIZ的管理机构是NeuLevel公司，它与因特网域名与地址管理机构（ICANN）签约作为NeuLevel注册的独家运作商。.BIZ是世界上第一个专为企业用户开设的Internet环境。除能增强企业的网上形象之外，BIZ数据库平台能提供更高效的服务，促进电子商务的发展。据domaintools.com全球域名统计报告，截至2016年7月9日，当前.biz国际域名的注册保有量为227万，居世界域名品种的第20位，.BIZ入全球六大国际域名行列。\n',
+ 'title': "('biz域名', '目录')",
+ 'url': 'https://baike.baidu.com/item/biz%E5%9F%9F%E5%90%8D/7381851?fromtitle=.biz&fromid=5298463'}{'content': '\n'
+            'QQ是腾讯QQ的简称，是腾讯公司开发的一款基于Internet的即时通信（IM）软件。目前QQ已经覆盖Microsoft '
+            'Windows、OS X、Android、iOS、Windows '
+            'Phone等多种主流平台。其标志是一只戴着红色围巾的小企鹅。腾讯QQ支持在线聊天、视频通话、点对点断点续传文件、共享文件、网络硬盘、自定义面板、QQ邮箱等多种功能，并可与多种通讯终端相连。2017年1月5日，腾讯QQ和美的集团在深圳正式签署战略合作协议，双方将共同构建基于IP授权与物联云技术的深度合作，实现家电产品的连接、对话和远程控制。双方合作的第一步，是共同推出基于QQfamily '
+            'IP授权和腾讯物联云技术的多款智能家电产品。\n',
+ 'title': "('QQ', '目录')",
+ 'url': 'https://baike.baidu.com/item/QQ'}{'content': '\n31（三十一）是30与32之间的自然数，是一个奇数、质数。同时也是最接近圆周率的立方的整数。\n',
+ 'title': "('31', '（自然数之一）')",
+ 'url': 'https://baike.baidu.com/item/31/9392093'}{'content': '\n'
+            '赛尔网络有限公司成立于2000年12月，经教育部批准，负责中国教育和科研计算机网CERNET的运营与管理。秉承“网络服务教育”的宗旨，赛尔网络立足教育、服务社会，充分发挥在人才、技术等方面的优势，为用户提供包括网络接入、网络技术、网络信息等全方位的高品质服务。\n',
+ 'title': "('赛尔网络有限公司', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E8%B5%9B%E5%B0%94%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8'}{'content': '\n'
+            '中国共产党第十五次全国代表大会提出了跨世纪社会现代化建设的宏伟目标与任务，对落实科教兴国战略做出了全面部署。为了实现党的十五大所确定的目标与任务，落实科教兴国战略，全面推进教育的改革和发展，提高全民族的素质和创新能力，特制定本行动计划。\n',
+ 'title': "('面向21世纪教育振兴行动计划', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E9%9D%A2%E5%90%9121%E4%B8%96%E7%BA%AA%E6%95%99%E8%82%B2%E6%8C%AF%E5%85%B4%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92'}{'content': '\n46（四十六）是45与47之间的自然数。偶数（复数），合数。\n',
+ 'title': "('46', '目录')",
+ 'url': 'https://baike.baidu.com/item/46'}{'content': '\n48（四十八）是47与49之间的自然数。是一个偶数、合数。\n',
+ 'title': "('48', '目录')",
+ 'url': 'https://baike.baidu.com/item/48'}{'content': '\n'
+            '《Oracle大型数据库系统在AIX/UNIX上的实战详解》是文平主编，由电子工业出版社于2009年12月出版的一本图书。该书以AIX '
+            'UNIX平台为主线，以其他UNIX系统为参照，描述了数据库系统Oracle 10g、Oracle '
+            '11g的构架方法，说明了该数据库在AIX平台常用的管理内容，分析了服务器综合容灾的工程手段和技术方法，综合了在AIX系统上优化Oracle的诸多做法和要点。最后，本书还以Sybase '
+            'ASE数据库系统作为对比，论述了Oracle在AIX上的特征。\n',
+ 'title': "('Oracle大型数据库系统在AIX/UNIX上的实战详解', '目录')",
+ 'url': 'https://baike.baidu.com/item/Oracle%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%9C%A8AIX%2FUNIX%E4%B8%8A%E7%9A%84%E5%AE%9E%E6%88%98%E8%AF%A6%E8%A7%A3'}{'content': '\n'
+            'LSA（链路状态广播）是链接状态协议使用的一个分组，它包括有关邻居和通道成本的信息。 '
+            'LSAs被路由器接收用于维护它们的路由选择表。 LSA: Link-State Advertisement。\n',
+ 'title': "('lsa', '目录')",
+ 'url': 'https://baike.baidu.com/item/LSA'}{'content': '\n'
+            'SEO是由英文Search Engine Optimization缩写而来， '
+            '中文意译为“搜索引擎优化”。SEO是指通过对网站进行站内优化和修复(网站Web结构调整、网站内容建设、网站代码优化和编码等)和站外优化，从而提高网站的网站关键词排名以及公司产品的曝光度。通过搜索引擎查找信息是当今网民们寻找网上信息和资源的主要手段。而SEM，搜索引擎营销，就是根据用户使用搜索引擎的方式，利用用户检索信息的机会尽可能将营销信息传递给目标用户。在目前企业网站营销中，SOM（SEO+SEM）模式越来越显重要。\n',
+ 'title': "('SEO', '目录')",
+ 'url': 'https://baike.baidu.com/item/SEO'}{'content': '\n'
+            'SSL(Secure Sockets Layer 安全套接层),及其继任者传输层安全（Transport Layer '
+            'Security，TLS）是为网络通信提供安全及数据完整性的一种安全协议。TLS与SSL在传输层对网络连接进行加密。\n',
+ 'title': "('ssl', '目录')",
+ 'url': 'https://baike.baidu.com/item/SSL'}{'content': '\n'
+            'Windows Communication '
+            'Foundation(WCF)是由微软开发的一系列支持数据通信的应用程序框架，可以翻译为Windows '
+            '通讯开发平台。整合了原有的windows通讯的 .net '
+            'Remoting，WebService，Socket的机制，并融合有HTTP和FTP的相关技术。是Windows平台上开发分布式应用最佳的实践方式。简单的归结为四大部分1>.网络服务的协议，即用什么网络协议开放客户端接入。2>.业务服务的协议，即声明服务提供哪些业务。3>.数据类型声明，即对客户端与服务器端通信的数据部分进行一致化。4>.传输安全性相关的定义。它是.NET框架的一部分，由 '
+            '.NET Framework3.0 开始引入，与Windows Presentation Foundation及Windows '
+            'Workflow Foundation并行为新一代 Windows操作系统以及 WinFX 的三个重大应用程序开发类库。在 '
+            '.NET Framework2.0 以及前版本中，微软发展了 Web Service(SOAP with HTTP '
+            'communication)，.NET Remoting (TCP/HTTP/Pipeline communication) '
+            '以及基础的 Winsock '
+            '等通信支持。由于各个通信方法的设计方法不同，而且彼此之间也有相互的重叠性，对于开发人员来说，不同的选择会有不同的程序设计模型，而且必须要重新学习，让开发人员在使用中有许多不便。同时，面向服务架构(Service-Oriented '
+            'Architecture) '
+            '也开始盛行于软件工业中，因此微软重新查看了这些通信方法，并设计了一个统一的程序开发模型，对于数据通信提供了最基本最有弹性的支持，这就是 '
+            'Windows Communication Foundation。\n',
+ 'title': "('Wcf', '目录')",
+ 'url': 'https://baike.baidu.com/item/WCF'}{'content': '\n',
+ 'title': "('AVA', '目录')",
+ 'url': 'https://baike.baidu.com/item/AVA'}{'content': '\n'
+            'ICQ是一款即时通讯软件。1996年，三个以色列人维斯格、瓦迪和高德芬格聚在一起，决定开发一种使人与人在互联网上能够快速直接交流的软件。他们为新软件取名ICQ，即“I '
+            'SEEK YOU（我找你）”的意思。ICQ支持在Internet上聊天、发送消息和文件等。\n',
+ 'title': "('icq', '目录')",
+ 'url': 'https://baike.baidu.com/item/ICQ'}{'content': '\n'
+            '税收优惠政策是指税法对某些纳税人和征税对象给予鼓励和照顾的一种特殊规定。比如，免除其应缴的全部或部分税款，或者按照其缴纳税款的一定比例给予返还等，从而减轻其税收负担。税收优惠政策是国家利用税收调节经济的具体手段，国家通过税收优惠政策、可以扶持某些特殊地区、产业、企业和产品的发展，促进产业结构的调整和社会经济的协调发展。\n',
+ 'title': "('税收优惠政策', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%A8%8E%E6%94%B6%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96/840861'}{'content': '\n'
+            '世界一流大学指主要学科有一批大师级人才，能够批量培养出产生世界一流的原创基础理论人才的创新型大学。[1-6]\xa0\n'
+            '创新型大学是把培养学生的创新能力摆在第一位、用创新力主导学习力的大学。[1-2]\xa0\n'
+            '创新型大学把学力摆在学历前面，人员匹配、课程设置、人才评价、资源配置、机制设计，都围绕着培养能出原创成果的人才这一中心目标展开。创新型大学的创新能力、出原创成果的能力高于现有的研究型大学。[1]\xa0\n'
+            '[4-10]\xa0\n'
+            '世界一流大学，主要指在世界上文化教育实力雄厚、拥有极大的世界声誉、排名在世界前列的大学。较为公认的世界一流大学有两个共同特点：一是拥有世界一流水平的教授队伍；二是有一套支持教授队伍培养人才、进行尖端科学研究的体制及政策（即所谓软环境）。另外，是否为常春藤联盟，美国大学协会（AAU），1994大学集团，罗素大学集团，巴黎高科技工程师学校集团，澳大利亚八校联盟，环太平洋大学联盟等高校联盟的成员高校也是判定其是否为世界一流大学的标准之一。中国政府为了创建世界一流高校，实行了985计划，首批重点建设的九所大学，组建了中国的九校联盟（C9联盟），被国际上誉为中国常青藤。2015年10月，国务院印发《统筹推进世界一流大学和一流学科建设总体方案》\n',
+ 'title': "('世界一流大学', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E4%B8%96%E7%95%8C%E4%B8%80%E6%B5%81%E5%A4%A7%E5%AD%A6/7909867'}{'content': '\n'
+            '中等职业学校是实施中等职业教育的学校（职业高中/中专/技校），学生毕业属中专学历。招生对象是初中毕业生和具有与初中同等学历的人员，基本学制为三年。中等职业教育是在高中教育阶段进行的职业教育，也包括部分高中后职业培训，目前是我国职业教育的主体。其定位是在义务教育的基础上培养大量技能型人才与高素质劳动者。2015年，全国中等职业学校毕业生人数为515.47万，就业人数为496.42万，就业率为96.30%，对口就业率为77.60%。[1]\xa0\n'
+            '2016年，全国中等职业学校毕业生人数为474.71万，就业人数为459.15万，就业率为96.72%。对口就业率为75.60%。[2]\xa0\n'
+            '\n',
+ 'title': "('中等职业学校', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E4%B8%AD%E7%AD%89%E8%81%8C%E4%B8%9A%E5%AD%A6%E6%A0%A1/7487709'}{'content': '\n'
+            '王旭东，1995年出生，演员，外形阳光俊逸、性格活泼开朗。因参演猫的树导演作品《遇见你这么美好的事情》王旭东正式步入演艺圈，吸引到诸多网友的注目。2016年，外形阳光俊逸、性格活泼开朗的王旭东因参演猫的树导演作品《遇见你这么美好的事情》王旭东正式步入演艺圈，吸引到诸多网友的注目。而后凭借日渐精湛的演技陆续接拍了青春电影《李雷和韩梅梅》、奇幻爱情网剧《我与你的光年距离》[1]\xa0\n'
+            '等多部脍炙人口的剧作。\n',
+ 'title': "('王旭东', '（演员）')",
+ 'url': 'https://baike.baidu.com/item/%E7%8E%8B%E6%97%AD%E4%B8%9C/20453920'}{'content': '\n'
+            '创业投资基金(VentureCapitalFund)是指由一群具有科技或财务专业知识和经验的人士操作，并且专门投资在具有发展潜力以及快速成长公司的基金。创业投资属于长期性的投资，流动性较差，一般需要5—10年方能有显著的投资回报[1]\xa0\n'
+            '。\n',
+ 'title': "('创业投资基金', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%88%9B%E4%B8%9A%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91/5056572'}{'content': '\n'
+            '高等教育学历文凭考试（1993~2007）是对尚不具备独立颁发国家承认学历文凭的民办高校的一种学历认证考试。它是社会力量办学与国家考试相结合，教考分离，宽进严出的全日制高等教育，其办学主体是个人或民间机构出资建立的民办高校，是民办高等教育的一种，主要招生对象为刚从中等学校毕业出来的想接受高等教育的学生。学历文凭考试只有专科层次，没有本科层次，毕业证书国家承认其学历。就读学校是在当地教委备案的办学机构。部分普通高校的计划外招生也属于学历文凭考试。\n',
+ 'title': "('学历文凭考试', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%AD%A6%E5%8E%86%E6%96%87%E5%87%AD%E8%80%83%E8%AF%95/8786071'}{'content': '\n'
+            '面向服务的架构（SOA）是一个组件模型，它将应用程序的不同功能单元（称为服务）通过这些服务之间定义良好的接口和契约联系起来。接口是采用中立的方式进行定义的，它应该独立于实现服务的硬件平台、操作系统和编程语言。这使得构建在各种各样的系统中的服务可以以一种统一和通用的方式进行交互。\n',
+ 'title': "('SOA', '（面向服务的架构）')",
+ 'url': 'https://baike.baidu.com/item/SOA/2140650'}{'content': '\n'
+            '普通高等教育，指主要包括全日制普通博士学位研究生、全日制普通硕士学位研究生（包括学术型硕士和专业硕士）、全日制普通第二学士学位、全日制普通本科（包括通过高考录取的四年制、五年制本科和通过统招专升本考试录取的二年制本科）、全日制普通专科（高职高专）。我国实施普通高等教育的教育机构有普通全日制本科（大学、学院）、普通全日制专科（高等职业技术学院/职业大学、高等专科学校），此外，还包括成人高等教育。2015年，全国普通高等学校2560所（含独立学院275所），其中，本科院校1219所，高职（专科）院校1341所，本专科共招生737.85万人，在校生2625.30万人，毕业生680.89万人。普通高等学校校均规模10197人，教职工共236.93万人。\n',
+ 'title': "('普通高等教育', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E6%99%AE%E9%80%9A%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/4806417'}{'content': '\n社会力量办学是指在政府教育部门许可的情况下，为减少政府负担，促进教育发展，集合社会各方面力量开办学校的教育推广方式。\n',
+ 'title': "('社会力量办学', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E5%8A%9B%E9%87%8F%E5%8A%9E%E5%AD%A6/1777421'}{'content': '\n'
+            '职业技术学校简称“职校”，中等专业学校的一种分支。指以职业技能培训、提升劳动力就业水平为主的学校，是中国特色办学模式的产物。通过技术培训可以增强市场就业竞争力，通过技能考核，合格后可以得到国家认可的职业资格证书和中专学历。\n',
+ 'title': "('职业技术学校', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%AD%A6%E6%A0%A1/1593871'}{'content': '\n'
+            '在市场经济体制下，市场机制是资源配置的决定性力量。但市场配置资源客观上存在不足，不可能使资源配置尽善尽美。当一定时期资源配置出现问题，地区结构、产业结构、市场结构、企业结构存在失衡时，国家可通过财政政策，把掌握或控制的资源转移分配到急需发展的领域，使经济结构符合生产力发展的要求。如在地区结构调整中，加快西部地区发展，保持东部、中部与西部之间的平衡；在产业结构调整中，以技术创新为动力，加强第一产业、提高第二产业、发展第三产业，促进产业优化升级。\n',
+ 'title': "('优化资源配置', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E4%BC%98%E5%8C%96%E8%B5%84%E6%BA%90%E9%85%8D%E7%BD%AE/10753142'}{'content': '\n终身教育体系指教育系统和社会机构为社会成员提供终身参与有组织学习机会的教育制度安排和网络。\n',
+ 'title': "('终身教育体系', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%BB%88%E8%BA%AB%E6%95%99%E8%82%B2%E4%BD%93%E7%B3%BB/10637278'}{'content': '\n'
+            '革命传统教育是德育内容之一。使受教育者继承和发扬无产阶级在革命斗争中形成的革命精神、优良作风和高尚品德的教育。对广大干部、群众，特别是青少年进行教育。主要内容是：养成密切联系群众和为人民服务的思想作风；培养实事求是、理论联系实际、谦虚谨慎等良好品质；养成艰苦奋斗、勤劳勇敢、不怕困难的品德；继承和发扬爱国主义精神和为共产主义事业而英勇牺牲的献身精神。[1]\xa0\n'
+            '\n',
+ 'title': "('革命传统教育', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E9%9D%A9%E5%91%BD%E4%BC%A0%E7%BB%9F%E6%95%99%E8%82%B2/10705482'}{'content': '\n'
+            '《战争前线》是由德国Crytek公司自主研发的军事射击类游戏，由Crytek基辅工作室开发，Crytek首尔工作室和Crytek法兰克福工作室协力。以近未来军事冲突为背景，采用自有的CryENGINE引擎打造。该游戏PC版中国服由腾讯代理，韩服，日服由NEXON代理，俄服由顶级代理mail.ru代理，而XBOX版本则由育碧发行；战争前线在中国大陆确定于2015年6月18日停止运营。\n',
+ 'title': "('战争前线', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E6%88%98%E4%BA%89%E5%89%8D%E7%BA%BF/10239653?fromtitle=WF&fromid=20362295'}{'content': '\n'
+            '伦敦大学皇家霍洛威学院（Royal Holloway, University of '
+            'London)，简称皇家霍洛威（RHUL），是坐落于于英国首都伦敦郊区的世界一流大学。RHUL始建于1886年，维多利亚女王亲自授予其皇家特许状并主持了开校典礼。皇家霍洛威学院于1900年加入伦敦大学，成为独立组成学院之一，并且作为伦敦大学选定专门进行科学教学与研究的五所院校之一。1986年伊丽莎白二世女王又于该校100周年校庆之际主持了其与贝德福德学院（1849年成立）的合并典礼。皇家霍洛威是英国顶尖学府，是著名1994大学集团的成员，全球1%的精英大学，世界150强名校。由于古老的哥特式红砖建筑和开阔碧绿的园林，皇家霍洛威学院被《每日电讯报》（The '
+            'Daily '
+            'Telegraph）评为十大英国最美校园，以及全球最美十六大校园之一。管理学院，经济学院，传媒和艺术学院，计算机学院处于全英一流水准，尤其是该校的信息安全课程（information '
+            'Security）为全球第一。影视制作、影视剧本写作、记录片制作、戏剧制、导演、戏剧表演等专业均为实操型专业，在全英享有很高的声誉。该校是世界上首个开设信息安全专业授课型硕士课程（MSc）的大学[1]\xa0\n'
+            '，与牛津大学合作建设由政府出资的国家网络安全研究中心[2]\xa0\n'
+            '。在2008年英国高教委的RAE科研评估中，皇家霍洛威位居全英第23位[3]\xa0\n'
+            '。2016年QS专业排名中，表演艺术专业名列世界第14名。在2015泰晤士报英国大学排名中位居全英第34位。在2014-15泰晤士高等教育世界大学排名中位居英国第17位，世界第118位。\n',
+ 'title': "('伦敦大学皇家霍洛威学院', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E4%BC%A6%E6%95%A6%E5%A4%A7%E5%AD%A6%E7%9A%87%E5%AE%B6%E9%9C%8D%E6%B4%9B%E5%A8%81%E5%AD%A6%E9%99%A2'}{'content': '\n'
+            '加州大学-圣塔芭芭拉（University of California, Santa '
+            'Barbara简称UCSB）属于加利福尼亚大学系统，是美国顶尖的以研究科学为主，且学术声望非常高的研究性公立大学。校园两面环海并拥有紧邻著太平洋的一片美丽迷人的海滩，环海面积达1000英亩。作为公立常春藤盟校之一，UCSB有着傲人的学术成就和优美的校园环境，每年都吸引着无数的世界优秀研究学者在这里进行深造和学术研究，如今UCSB已经是全美乃至全世界重要的学术发展重地之一。加州大学圣塔芭芭拉分校University '
+            'of California与加州大学伯克利分校、加州大学洛杉矶分校、加州大学圣地亚哥分校、加州大学欧文分校 '
+            '、加州大学戴维斯分校、加州大学圣克鲁兹分校一样，是世界顶尖的高等学府。此间学校亦被誉为公立常春藤之一，同时也是美国重要的学术联盟美国大学联合会61所知名大学成员之一，环太平洋大学协会成员[1-2]\xa0\n'
+            '。加州大学圣塔芭芭拉分校在2017USNEWS世界大学排名第24名，美国大学排37名，并在公立大学中位列第8。[3]\xa0\n'
+            '\n',
+ 'title': "('加州大学圣塔芭芭拉分校', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9C%A3%E5%A1%94%E8%8A%AD%E8%8A%AD%E6%8B%89%E5%88%86%E6%A0%A1'}{'content': '\n'
+            '自然常数，是数学科的一种法则。约为2.71828，就是公式为lim(1+1/x)^x,x→∞或lim(1+z)^(1/z)，z→0 '
+            '，是一个无限不循环小数，是为超越数。\n',
+ 'title': "('自然常数', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E8%87%AA%E7%84%B6%E5%B8%B8%E6%95%B0/1298918?fromtitle=e&fromid=4734540'}{'content': '\n'
+            '科学上把单位时间里通过导体任一横截面的电量叫做电流强度，简称电流。通常用字母 '
+            'I表示，它的单位是安培（安德烈·玛丽·安培），1775年—1836年，法国物理学家、化学家，在电磁作用方面的研究成就卓著，对数学和物理也有贡献。电流的国际单位安培即以其姓氏命名），简称“安”，符号 '
+            '“A”，也是指电荷在导体中的定向移动。导体中的自由电荷在电场力的作用下做有规则的定向运动就形成了 '
+            '电流。电源的电动势形成了电压，继而产生了电场力，在电场力的作用下，处于电微安(μA)1A=1 000mA=1 000 '
+            '000μA，电学上规定：正电荷定向流动的方向为电流方向。金属导体中电流微观表达式I=nesv,n为单位体积内自由电子数，e为电子的电荷量，s为导体横截面积，v为电荷速度。大自然有很多种承载电荷的载子，例如，导电体内可移动的电子、电解液内的离子、等离子体内的电子和离子、强子内的夸克。这些载子的移动，形成了电流。\n',
+ 'title': "('电流', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E7%94%B5%E6%B5%81/268192?fromtitle=i&fromid=3420387'}{'content': '\n'
+            '2004年国家教育部发文取消高等教育学历文凭考试，各试点民办学校于2005年起停止招生，国家和各省统考课程于2007年后停止，并要求各省教育主管部门制定高等教育学历文凭考试结束阶段工作方针。\n',
+ 'title': "('高等教育学历文凭考试', '目录')",
+ 'url': 'https://baike.baidu.com/item/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E5%8E%86%E6%96%87%E5%87%AD%E8%80%83%E8%AF%95/5317606'}

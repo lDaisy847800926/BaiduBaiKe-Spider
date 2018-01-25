@@ -1,0 +1,5 @@
+
+3
+âdüY?  ?               @   s   d Z dgZdZdZddiZdS )Z
+BaiduBaikezBaiduBaike.spidersFz'BaiduBaike.pipelines.BaidubaikePipelinei,  N)?BOT_NAME?SPIDER_MODULES?NEWSPIDER_MODULE?ROBOTSTXT_OBEY?ITEM_PIPELINES? r   r   õ\   D:\Python17\PythonSpider\Week4\Projects\ç™¾åº¦ç™¾ç§‘Scrapy\BaiduBaike\BaiduBaike\settings.py?<module>   s
+   .+

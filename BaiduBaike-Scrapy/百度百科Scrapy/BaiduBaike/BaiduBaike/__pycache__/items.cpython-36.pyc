@@ -1,0 +1,3 @@
+
+3
+?�Y?  ?               @   s   d dl Z G dd? de j?ZdS )?    Nc               @   s$   e Zd Zej? Zej? Zej? ZdS )?BaidubaikeItemN)?__name__?__module__?__qualname__?scrapy?Field?title?content?url? r   r   �Y   D:\Python17\PythonSpider\Week4\Projects\百度百科Scrapy\BaiduBaike\BaiduBaike\items.pyr      s   r   )r   ?Itemr   r   r   r   r   ?<module>   s   
