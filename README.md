@@ -1,7 +1,7 @@
 # BaiduBaiKe-Spider
 百度百科爬虫
 
--百度百科的爬虫
+百度百科的爬虫
   百度百科：一般的爬虫方法
   百度百科Scrapy:使用的是经典scrapy框架抓取百度百科
   百度百科S-Redis：结合scrapy矿建以及redis存储百度百科
